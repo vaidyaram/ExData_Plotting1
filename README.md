@@ -1,3 +1,7 @@
+## Project deliverables
+
+This is the updated readme file from the forked repository (ExData_Plotting1). There are 4 source code (.R) files and 2 output files (.png) files. 
+
 ## Introduction
 
 This assignment uses data from
@@ -112,3 +116,8 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+## Thanks !
+
+Thanks to all the professors and all fellow classmates. All your inputs have been extermely helpful in my learning process.
+
+Special thanks to reviewers who are taking time out to help with valuable feedback.
